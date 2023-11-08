@@ -1,17 +1,33 @@
-## Education
- M.A., English Literature, Grand Valley State University, 2015
+---
+layout: default
+title: Ashley Zirkle - Graduate Student, University of Central Florida
+---
 
-B.A., Creative Writing, English, and Spanish, Grand Valley State University, 2011
+![Featured Image](/assets/featured-image.jpg)
 
-## Work Experience
+# Your Name
+## Your Academic Position
 
-<ul>
-<li>Communications Specialist, Walt Disney World Resort, 2019-Present</li>
-<li>Communications Associate, University of Central Florida, 2018-2019</li>
-<li>Show Writer Intern, Walt Disney World Resort, 2016</li>
-<li>Library Associate, West Osceola Library, 2015-2019</li>
-<li>Learning Coordinator, Walt Disney World Resort, 2015</li>
-<li>Housing Operations Coordinator, Walt Disney World Resort, 2014</li>
-<li>Communications Intern, Walt Disney World Resort, 2013</li>
-</ul>
+### About Me
+Briefly introduce yourself and your academic interests.
 
+### Research Interests
+- Topic 1
+- Topic 2
+- Topic 3
+
+### Publications and/or Conferences
+
+1. Paper Title, Journal, Year
+2. Another Paper Title, Conference, Year
+
+### Contact
+
+- Email: your-email@example.com
+- Office: Your office location
+
+### Follow Me
+
+- [Bluesky](https://bsky.app/your_bluesky_handle)
+- [LinkedIn](https://linkedin.com/in/your_linkedin_profile)
+- [GitHub](https://github.com/your_github_username)
