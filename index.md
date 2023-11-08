@@ -1,33 +1,27 @@
 ---
 layout: default
-title: Ashley Zirkle - Graduate Student, University of Central Florida
+title: Ashley Zirkle - Academic Portfolio
 ---
 
 ![Featured Image](/assets/featured-image.jpg)
 
-# Your Name
-## Your Academic Position
+# Ashley Zirkle
+## Graduate Student, University of Central Florida
 
 ### About Me
-Briefly introduce yourself and your academic interests.
-
+Hello! My name is Ashley Zirkle. I have a background in writing and literature. I am interested in social media, themed entertainment, and literature.
 ### Research Interests
-- Topic 1
-- Topic 2
-- Topic 3
+- Social Media
+- Themed Entertainment
+- Gender Studies
 
-### Publications and/or Conferences
-
-1. Paper Title, Journal, Year
-2. Another Paper Title, Conference, Year
 
 ### Contact
 
-- Email: your-email@example.com
-- Office: Your office location
+- Email: as513957@ucf.edu
 
 ### Follow Me
 
-- [Bluesky](https://bsky.app/your_bluesky_handle)
-- [LinkedIn](https://linkedin.com/in/your_linkedin_profile)
-- [GitHub](https://github.com/your_github_username)
+- [LinkedIn](https://linkedin.com/in/ashleyzirkle)
+- [GitHub](https://github.com/zirklea)
+- [Instagram](https://www.instagram.com/_ashleyz_/)
